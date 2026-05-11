@@ -1,11 +1,14 @@
 {
   "name": "executiveflow",
   "version": "2.0.0",
-  "description": "Executive Flow - Full Stack Productivity Platform with MongoDB",
+  "description": "Executive Flow - Full Stack Productivity Platform with MongoDB Atlas",
   "main": "backend/server.js",
   "scripts": {
     "start": "node backend/server.js",
     "seed": "node backend/seed.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "express": "^4.18.2",
