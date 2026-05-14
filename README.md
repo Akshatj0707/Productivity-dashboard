@@ -11,7 +11,7 @@
 
 **A complete full-stack enterprise productivity platform built with MongoDB Atlas, Node.js, Express, and JWT authentication — featuring separate dashboards for Users and Admins.**
 
-[🌐 Frontend](https://executive-flow.onrender.com) · [⚙️ Backend API](https://executive-flow.onrender.com/api/health) · [📖 Deployment](#-deployment) · [📚 API Docs](#-api-endpoints)
+[🌐 Frontend](https://executive-flow.onrender.com/) · [⚙️ Backend API](https://executive-flow.onrender.com/api/health) · [📖 Deployment](#-deployment) · [📚 API Docs](#-api-endpoints)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 | | Link | Description |
 |--|------|-------------|
-| 🌐 | [**Frontend — Live App**](https://executive-flow.onrender.com) | Full SPA with User & Admin dashboards |
+| 🌐 | [**Frontend — Live App**](https://executive-flow.onrender.com/) | Full SPA with User & Admin dashboards |
 | ⚙️ | [**Backend — REST API**](https://executive-flow.onrender.com/api/health) | Node.js + Express API server |
 | 🏥 | [**API Health Check**](https://executive-flow.onrender.com/api/health) | Server status + MongoDB connection |
 | 📦 | [**GitHub Repository**](https://github.com/Akshatj0707/Productivity-dashboard) | Full source code |
